@@ -1,0 +1,1 @@
+TOTAL_GUESSES = 6
